@@ -1,5 +1,6 @@
 # PS06-BuLingreactor
 This app is about GDP per capita and HDI in across the world through 30 years.
+[Portal to the app](https://tsigave.shinyapps.io/PS06-BuLingReactor/)
 
 ## About
 
